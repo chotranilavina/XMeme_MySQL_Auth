@@ -1,0 +1,13 @@
+2021-08-26T17:23:50.710+0530 I CONTROL  [initandlisten] MongoDB starting : pid=56180 port=27017 dbpath=/data/db 64-bit host=lavina-Inspiron-3593
+2021-08-26T17:23:50.710+0530 I CONTROL  [initandlisten] db version v3.6.8
+2021-08-26T17:23:50.710+0530 I CONTROL  [initandlisten] git version: 8e540c0b6db93ce994cc548f000900bdc740f80a
+2021-08-26T17:23:50.710+0530 I CONTROL  [initandlisten] OpenSSL version: OpenSSL 1.1.1f  31 Mar 2020
+2021-08-26T17:23:50.710+0530 I CONTROL  [initandlisten] allocator: tcmalloc
+2021-08-26T17:23:50.710+0530 I CONTROL  [initandlisten] modules: none
+2021-08-26T17:23:50.710+0530 I CONTROL  [initandlisten] build environment:
+2021-08-26T17:23:50.710+0530 I CONTROL  [initandlisten]     distarch: x86_64
+2021-08-26T17:23:50.710+0530 I CONTROL  [initandlisten]     target_arch: x86_64
+2021-08-26T17:23:50.710+0530 I CONTROL  [initandlisten] options: { net: { bindIp: "0.0.0.0" }, processManagement: { fork: true }, systemLog: { destination: "file", path: "log/mongod.log" } }
+2021-08-26T17:23:50.726+0530 I STORAGE  [initandlisten] exception in initAndListen: NonExistentPath: Data directory /data/db not found., terminating
+2021-08-26T17:23:50.726+0530 I CONTROL  [initandlisten] now exiting
+2021-08-26T17:23:50.726+0530 I CONTROL  [initandlisten] shutting down with code:100

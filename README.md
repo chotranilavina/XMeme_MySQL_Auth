@@ -1,3 +1,3 @@
 # XMeme_MySQL_Auth
 
-Securing API with Spring Uthentication using a local MYSQL Database
+Securing API with Spring Authentication using a local MYSQL Database
